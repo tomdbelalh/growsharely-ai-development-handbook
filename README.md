@@ -21,45 +21,13 @@ This book may be read as:
 - A real-world case study
 - A software architecture handbook
 - A guide to human-AI collaboration
-- A documentation methodology for modern software projects
-
----
-
-## Topics Covered
-
-### Part I – Principles
-- MBH Principles
-- Architect Principles
-- Cursor Principles
-- AI Governance Principles
-
-### Part II – Workflow
-- Git Workflow
-- Cursor Workflow
-- AI Agent Mode
-- Approval Process
-- Review Process
-
-### Part III – The Architecture of GrowSharely
-- Product Vision
-- Business Rules
-- Roles and Permissions
-- Modules and Architecture
-- Architecture Decision Records
-
-### Part IV – Team Standards
-- The .winwinsp System
-- AI Collaboration
-- Lessons Learned
-- The Future Beyond GrowSharely
+- A documentation methodology for modern software projects.
 
 ---
 
 ## Download
 
-📘 PDF Edition
-
-Available in the handbook folder.
+The handbook is available in PDF and DOCX formats inside the `handbook` folder.
 
 ---
 
@@ -82,12 +50,4 @@ Mohammad Belal Hossain (MBH)
 
 Software Engineer • Entrepreneur • Educator • Author • Lifelong Learner
 
-Dhaka, Bangladesh
-
----
-
-## License
-
-This handbook is shared for educational and professional learning purposes.
-
-© 2026 Mohammad Belal Hossain. All rights reserved.
+Dhaka, Bangladesh | July 2026
